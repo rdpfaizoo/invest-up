@@ -1,0 +1,6 @@
+{
+  "name": "InvestUp",
+  "description": "A clean, minimalist investment app featuring user login/signup, diverse growth plans, and easy paisa deposit options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
